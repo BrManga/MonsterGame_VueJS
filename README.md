@@ -1,3 +1,3 @@
 # MonsterGame_VueJS
 Udemy Course Project 
-https://www.udemy.com/course-dashboard-redirect/?course_id=1821108
+https://www.udemy.com/course/sifirdan-ileri-seviye-vuejs-2-vuex-vue-router-egitim-seti/
